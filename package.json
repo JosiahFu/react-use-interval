@@ -1,7 +1,7 @@
 {
   "name": "@tater-archives/react-use-interval",
   "version": "1.0.0",
-  "description": "Utilities for handling state arrays in React",
+  "description": "React hook to statefully set an interval",
   "type": "module",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
