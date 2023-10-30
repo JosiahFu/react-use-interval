@@ -26,9 +26,6 @@ useInterval(
     60000,
     // Determines if the function should run on initialization, otherwise it
     // will not run until the first interval
-    false, 
-    // If resetTimerOnChange is set to true, the timer will reset when the
-    // function changes
-    true 
+    false
 );
 ```
